@@ -1,0 +1,482 @@
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll.config
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.pdb
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Antlr3.Runtime.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\EntityFramework.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Newtonsoft.Json.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Owin.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.Helpers.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.Mvc.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.Optimization.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.Razor.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.WebPages.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\WebGrease.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.Helpers.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.Mvc.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.Optimization.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.Razor.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.WebPages.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Newtonsoft.Json.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Antlr3.Runtime.pdb
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\EntityFramework.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.csprojResolveAssemblyReference.cache
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.dll
+c:\users\hasan mozumder\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.pdb
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Moq.dll
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Ninject.dll
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\UltraShopBd.Domain.dll
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\WebActivatorEx.dll
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\UltraShopBd.Domain.pdb
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Moq.xml
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Ninject.xml
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\HASAN MOZUMDER\documents\visual studio 2013\Projects\UltraShopBd\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll.config
+D:\UltraShopBD\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.pdb
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Antlr3.Runtime.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\EntityFramework.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Moq.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Newtonsoft.Json.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Ninject.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Ninject.Web.Common.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Owin.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.Helpers.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.Mvc.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.Optimization.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.Razor.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.WebPages.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\UltraShopBd.Domain.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\WebActivatorEx.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\WebGrease.dll
+D:\UltraShopBD\UltraShopBd.WebUI\bin\UltraShopBd.Domain.pdb
+D:\UltraShopBD\UltraShopBd.WebUI\bin\EntityFramework.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Moq.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Ninject.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Ninject.Web.Common.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.Helpers.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.Mvc.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.Optimization.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.Razor.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.WebPages.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Newtonsoft.Json.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Antlr3.Runtime.pdb
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\UltraShopBD\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\UltraShopBD\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.csprojResolveAssemblyReference.cache
+D:\UltraShopBD\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.dll
+D:\UltraShopBD\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.pdb
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll.config
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.pdb
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Moq.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Owin.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Helpers.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Mvc.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Optimization.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Razor.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.Domain.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\WebActivatorEx.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\WebGrease.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.Domain.pdb
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Moq.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Helpers.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Mvc.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Optimization.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Razor.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.pdb
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\nunit.framework.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\nunit.framework.xml
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\ImageResizer.dll
+C:\Users\black coder\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\ImageResizer.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll.config
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.pdb
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\ImageResizer.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Moq.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\nunit.framework.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Owin.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Helpers.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Mvc.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Optimization.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Razor.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.Domain.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\WebActivatorEx.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\WebGrease.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.Domain.pdb
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\ImageResizer.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Moq.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\nunit.framework.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Helpers.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Mvc.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Optimization.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Razor.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.dll
+C:\Users\black coder\Desktop\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.pdb
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll.config
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.pdb
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Antlr3.Runtime.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\ImageResizer.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Web.Infrastructure.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Moq.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Newtonsoft.Json.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Common.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\nunit.framework.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Owin.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Helpers.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Mvc.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Optimization.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Razor.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.Domain.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\WebActivatorEx.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\WebGrease.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.Domain.pdb
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\ImageResizer.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Moq.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Common.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\nunit.framework.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Helpers.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Mvc.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Optimization.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Razor.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Newtonsoft.Json.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Antlr3.Runtime.pdb
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.csprojResolveAssemblyReference.cache
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.dll
+H:\Dropbox\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.pdb
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll.config
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.pdb
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Antlr3.Runtime.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\ImageResizer.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Web.Infrastructure.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Moq.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Newtonsoft.Json.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Common.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\nunit.framework.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Owin.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Helpers.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Mvc.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Optimization.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Razor.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.Domain.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\WebActivatorEx.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\WebGrease.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\UltraShopBd.Domain.pdb
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\ImageResizer.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Moq.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Common.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\nunit.framework.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Helpers.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Mvc.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Optimization.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.Razor.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Newtonsoft.Json.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Antlr3.Runtime.pdb
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.csprojResolveAssemblyReference.cache
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.dll
+H:\Dropbox\Dropbox\ultrashopbd\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.pdb
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll.config
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\UltraShopBd.WebUI.pdb
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\EntityFramework.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\ImageResizer.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Moq.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Ninject.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\nunit.framework.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Owin.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.Razor.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\WebActivatorEx.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\WebGrease.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\EntityFramework.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\ImageResizer.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Moq.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Ninject.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\nunit.framework.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.Razor.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\obj\Debug\UltraShopBd.WebUI.pdb
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\UltraShopBd.Domain.dll
+C:\Users\Rayhan\Documents\Visual Studio 2015\Projects\e-com\UltraShopBd.WebUI\bin\UltraShopBd.Domain.pdb
